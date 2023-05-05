@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "CmtGn9xMSuwupBumINxJwaSL6TNBD+KboeMV2mc4gjP1t2ostSKy0u+goIyJBVWldJl0T0IeXfKRRj6PGhyeHw==",
+  "success": true,
+  "projectFilePath": "E:\\PET Projects\\NewPet\\ExamAccounting\\ConsoleApp2\\CruxLabValidator\\CruxLabValidator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\psixo\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\psixo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\psixo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\psixo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
