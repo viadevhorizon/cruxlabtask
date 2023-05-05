@@ -1,0 +1,15 @@
+E:\PET Projects\NewPet\ExamAccounting\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.exe
+E:\PET Projects\NewPet\ExamAccounting\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.deps.json
+E:\PET Projects\NewPet\ExamAccounting\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.runtimeconfig.json
+E:\PET Projects\NewPet\ExamAccounting\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.dll
+E:\PET Projects\NewPet\ExamAccounting\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.pdb
+E:\PET Projects\NewPet\ExamAccounting\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.AssemblyReference.cache
+E:\PET Projects\NewPet\ExamAccounting\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+E:\PET Projects\NewPet\ExamAccounting\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfoInputs.cache
+E:\PET Projects\NewPet\ExamAccounting\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfo.cs
+E:\PET Projects\NewPet\ExamAccounting\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+E:\PET Projects\NewPet\ExamAccounting\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.dll
+E:\PET Projects\NewPet\ExamAccounting\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\refint\ConsoleApp2.dll
+E:\PET Projects\NewPet\ExamAccounting\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.pdb
+E:\PET Projects\NewPet\ExamAccounting\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.genruntimeconfig.cache
+E:\PET Projects\NewPet\ExamAccounting\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ref\ConsoleApp2.dll
