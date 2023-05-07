@@ -1,12 +1,10 @@
-﻿
+﻿using System.Diagnostics;
 
-
-using System.Diagnostics;
 var numberOfValidPasswords = 0;
 var pathToFolder = ".";
 var fileNameAndExtension = "taskvalidator.txt";
 var fullPathToFile = Path.Combine(pathToFolder, fileNameAndExtension);
-var splitSymbols = new char[] { '-', ':', ' ' };
+var splitSymbols = new[] { '-', ':', ' ' };
 var timer = Stopwatch.StartNew();
 using (var reader = new StreamReader(fullPathToFile))
 {
@@ -14,7 +12,7 @@ using (var reader = new StreamReader(fullPathToFile))
     {
         var fileLine = await reader.ReadLineAsync();
         var partsOfFileLine = fileLine?.ToLower().Split(splitSymbols, StringSplitOptions.RemoveEmptyEntries);
-        if (partsOfFileLine?.Length == 4 && int.TryParse(partsOfFileLine?[1], out var minimumNumberOfSymbol) &&
+        if (partsOfFileLine?.Length == 4 && int.TryParse(partsOfFileLine[1], out var minimumNumberOfSymbol) &&
             int.TryParse(partsOfFileLine[2], out var maximumNumberOfSymbol) &&
             char.TryParse(partsOfFileLine[0], out var requiredSymbol))
         {
